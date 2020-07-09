@@ -1,44 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Twitter responsive profile clone interface using ReactJS
 
-## Available Scripts
+Application web view:
 
-In the project directory, you can run:
+![Screenshot from 2020-07-08 21-03-34](https://user-images.githubusercontent.com/50718745/86983163-7b217480-c161-11ea-8106-505eae7658f1.png)
 
-### `yarn start`
+Application Ipad Pro view:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Screenshot from 2020-07-08 21-10-21](https://user-images.githubusercontent.com/50718745/86983240-c20f6a00-c161-11ea-8865-d9756723f0a3.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Application tablet view:
 
-### `yarn test`
+![Screenshot from 2020-07-08 21-10-50](https://user-images.githubusercontent.com/50718745/86983261-d3587680-c161-11ea-933b-7dfdb71a2556.png)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Application mobile view:
 
-### `yarn build`
+![Screenshot from 2020-07-08 21-11-13](https://user-images.githubusercontent.com/50718745/86983349-0ac72300-c162-11ea-927c-6c6d7811dbf0.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Created using [Rocketseat Tutorial](https://www.youtube.com/watch?v=K-8z_4xvT3o). 
